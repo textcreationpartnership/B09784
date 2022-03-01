@@ -1,0 +1,384 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A copy of verses made and set forth by Thomas Priest Bell-Man to all my worthy master and mistrisses of the vvard of St. Gile's Cripplegate without and within the freedom.</title>
+            <author>Priest, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09784</idno>
+            <idno type="STC">Wing P3451A</idno>
+            <idno type="STC">ESTC R182107</idno>
+            <idno type="EEBO-CITATION">62369608</idno>
+            <idno type="OCLC">ocm 62369608</idno>
+            <idno type="VID">188094</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09784)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188094)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2855:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A copy of verses made and set forth by Thomas Priest Bell-Man to all my worthy master and mistrisses of the vvard of St. Gile's Cripplegate without and within the freedom.</title>
+                  <author>Priest, Thomas.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcut)  </extent>
+               <publicationStmt>
+                  <publisher>Printed by Hen. Brugis,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing (2nd ed.).</note>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bell-Man, Thomas Priest.</term>
+               <term>Saint Giles without Cripplegate Parish Church (London, England)</term>
+               <term>English poetry --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="occasional_poems">
+            <pb facs="tcp:188094:1"/>
+            <head>A Copy of Verſes Made and ſet forth by THOMAS PRIEST BELL-MAN.</head>
+            <head type="sub">To all my worthy Maſters and Miſtriſſes of the VVard of St. <hi>Giles's</hi> Cripplegate without, and within the Freedom.</head>
+            <p>
+               <figure>
+                  <figDesc>depiction of Thomas Priest, town crier</figDesc>
+               </figure>
+            </p>
+            <div type="part">
+               <head>
+                  <hi>Simon</hi> and <hi>Jude.</hi>
+               </head>
+               <l>THis morning in all Churches far and near,</l>
+               <l>Two Heavenly Lamps do gloriouſly appear,</l>
+               <l>
+                  <hi>Simon</hi> and <hi>Jude</hi> both Apoſtolical</l>
+               <l>Planters of Chriſts Word Evangelical.</l>
+               <l>Both Preachers and Proclaimers of glad news</l>
+               <l>To ignorant Infidels and faithleſs Jews.</l>
+               <l>Who after many godly Functions done</l>
+               <l>They both received one faith by Martyrdome.</l>
+            </div>
+            <div type="part">
+               <head>All Saints.</head>
+               <l>THis day preſenteth to us the communion</l>
+               <l>Of all the Saints in a moſt perfect union,</l>
+               <l>For not one Angel in the Heavenly quire</l>
+               <l>Nor human Soul that unto Heaven aſpire,</l>
+               <l>But part hath in this day ſolemnity</l>
+               <l>In praiſe to God for their integrity,</l>
+               <l>Lord who heavens manſions did on them beſtow</l>
+               <l>Look down on us that yet remain below.</l>
+            </div>
+            <div type="part">
+               <head>For Chriſtmas Day.</head>
+               <l>THe Son of God our bleſſed Saviour he</l>
+               <l>Into the world did come to ſet us free,</l>
+               <l>And to rodeem us from the bonds of ſin</l>
+               <l>Which until then our Parents lived in:</l>
+               <l>By him we were Redeemed, and let us then</l>
+               <l>Return him thanks that was both God and man;</l>
+               <l>He ranſomed ſuch, at ſuch a mighty price</l>
+               <l>As he himſelf became a ſacrifice,</l>
+               <l>And ſpared not for our eternal good</l>
+               <l>To part with Life and loſe his precious blood.</l>
+            </div>
+            <div type="part">
+               <head>St. Stephen.</head>
+               <lg>
+                  <l>T. <hi>Steven</hi> was the firſt that lead the Van</l>
+                  <l>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd dyed for Chriſt! O bleſſed Chriſtian,</l>
+                  <l>
+                     <gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ſe loſs was gain, whoſe death did life beget,</l>
+                  <l>
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>w among the Saints in Heaven doth ſet</l>
+                  <l>
+                     <gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>n this bleſſed Martyr came to dye</l>
+                  <l>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>heir Remiſſion he to Heaven did cry,</l>
+                  <l>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ho were his Perſecutors and did want</l>
+                  <l>Soul ſaving-grace, for they were ignorant</l>
+                  <l>And knew not what they did, then let's take</l>
+                  <l>Pattern by him who dy'd for Chriſt's ſake.</l>
+               </lg>
+               <lg>
+                  <l>ST. <hi>John</hi> the Evangeliſt Chriſt loved well</l>
+                  <l>The holly Scriptures often doth us tell,</l>
+                  <l>Let us like <hi>John</hi> our Saviour's Love engage,</l>
+                  <l>That we may never taſt his Fathers rage,</l>
+                  <l>But with St. <hi>John</hi> who did the reſt excel</l>
+                  <l>Amongſt the Saints for evermore may dwell.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>Newyears Day.</head>
+               <lg>
+                  <l>MY Maſters all good morning and good Cheer,</l>
+                  <l>And welcome to the firſt of the New year,</l>
+                  <l>Which is a preface to the chearful Spring,</l>
+                  <l>When all things will be blith and flouriſhing,</l>
+                  <l>The Earth will ſhortly deck her ſelf a new,</l>
+                  <l>And ſweetly flouriſhing her Primroſe Hue,</l>
+                  <l>Lord with thy Spring of Grace our Souls ſo cheer,</l>
+                  <l>We there may feel the Fleece of a New year.</l>
+               </lg>
+               <lg>
+                  <l>GOd not ſo much delights in any place</l>
+                  <l>As in a Soul thats in a ſtate of Grace,</l>
+                  <l>As in a Safer there the Lord doth ſit</l>
+                  <l>And gives his preſence to illuſtereth it,</l>
+                  <l>Not <hi>Horeb</hi> was ſo holy to the Lord</l>
+                  <l>As is a ſoul obedient to his word:</l>
+                  <l>As to his Temple there he doth retire</l>
+                  <l>And feels it with a non-conſuming fire,</l>
+                  <l>Lord grant each Chriſtians heart may be poſſeſt</l>
+                  <l>With his glad preſence every ſoul ſo bleſt.</l>
+               </lg>
+               <lg>
+                  <l>GOd not ſo much abhorreth any place</l>
+                  <l>As he doth a Soul thats not in a ſtate of grace</l>
+                  <l>As Hell to him ſo loathſome is the ſight</l>
+                  <l>And gives it over to the Prince of night,</l>
+                  <l>For into it the Lord will never enter</l>
+                  <l>Till it repents on purpoſe to perſever,</l>
+                  <l>Then he is ready, willing to embrace it</l>
+                  <l>And will return all favours loſt to grace it.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>The Belmans Good Counſel,</head>
+               <lg>
+                  <l>TRuſt no man, nor no gift refuſe</l>
+                  <l>In Talk and Diet, Temperance uſe</l>
+                  <l>Foolls and their follies alwaies ſhun</l>
+                  <l>And Quarrels, leſt thou be undone:</l>
+                  <l>Hear all thou canſt, if thou be wiſe</l>
+                  <l>And ſlip no opportunities.</l>
+                  <l>Confer with few, keep truth with all</l>
+                  <l>Contend neither with great nor ſmall.</l>
+                  <l>Of coſtly diet ſparing be,</l>
+                  <l>Intereſt to pay is bad for thee:</l>
+                  <l>Thy Land ingage not, and beware</l>
+                  <l>Of Surety-ſhip, for that's a ſnare:</l>
+                  <l>Take no mans word, for many know</l>
+                  <l>Words are but wind and away they blow;</l>
+                  <l>Love thoſe in whom thou ſeeſt good wits,</l>
+                  <l>For thou maiſt learn of them by fits.</l>
+                  <l>In company be ſociable</l>
+                  <l>For that is good and commendable.</l>
+                  <l>If humours paſs the bounds of reaſon</l>
+                  <l>Break off, and chooſe ſome other ſeaſon,</l>
+                  <l>Learn Tongues, converſe with ſtrangers, ſo</l>
+                  <l>Of Forrein parts thou maiſt much know:</l>
+                  <l>Flatter no man though ne'r ſo great,</l>
+                  <l>Still keep good cloaths and wear them neat.</l>
+                  <l>If poſſible keep out of debt,</l>
+                  <l>Light by thy credit never ſet,</l>
+                  <l>Study how by degrees to riſe</l>
+                  <l>Refuſe no kindneſs if you're wiſe.</l>
+                  <l>Thy ſecrets keep from one whoſe tongue</l>
+                  <l>Is for his mouth an inch too long.</l>
+                  <l>Offer not any one thing twice</l>
+                  <l>If once refus'd, is my advice.</l>
+                  <l>Take notice of mens diſpoſitions</l>
+                  <l>Obſerve their good and bad Conditions,</l>
+                  <l>Let thy Expences be but ſmall,</l>
+                  <l>Thy carriage courteous unto all.</l>
+                  <l>Be circumſpect and wary ſtill</l>
+                  <l>Gluttons and Drunkards do not fill.</l>
+               </lg>
+               <lg>
+                  <l>THe Rich young gallant to himſelf doth ſay,</l>
+                  <l>O what a happy time do I enjoy,</l>
+                  <l>I want no Riches, I abound in Friends,</l>
+                  <l>Courted I am as all my Fame extends,</l>
+                  <l>I alwayes feaſt on High and Curious Fare,</l>
+                  <l>Content I have without the leaſt of Care,</l>
+                  <l>But one thing troubles and diſpleaſeth me,</l>
+                  <l>By Death that one day we muſt parted be.</l>
+               </lg>
+               <lg>
+                  <l>BUt my young Gallant if from Heaven a voice</l>
+                  <l>Should ſpeak to thee, and put thee to his choice,</l>
+                  <l>To live One Twenty of ſix hundred years</l>
+                  <l>Chained in a Jayle with miſeries and tears,</l>
+                  <l>And the reſt in thy preſent happy State,</l>
+                  <l>Or elſe the firſt in pleaſure without Debate,</l>
+                  <l>The Twenty years in Chains would I endure,</l>
+                  <l>To purchaſe the five hundred eighty ſore.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>The Belmans Advice.</head>
+               <lg>
+                  <l>IF you deſire your Houſes to ſee,</l>
+                  <l>With Doors and Windows ſafe to be,</l>
+                  <l>And quiet ſleep for to enjoy,</l>
+                  <l>Not fearing Fire that will deſtroy,</l>
+                  <l>Your <hi>Belman</hi> ſaith the ſafeſt way</l>
+                  <l>Spare your ſleep and fall to Pray</l>
+                  <l>That God may ſo preſerve and keep</l>
+                  <l>Both you and yours may ſafely ſleep.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>JOſeph</hi> the Darling of Old <hi>Jacob's</hi> Heart,</l>
+                  <l>Went to ſeek his Brethren in a void Deſert,</l>
+                  <l>But when he found them they did Churliſh prove,</l>
+                  <l>And took away his Partial Coat of love,</l>
+                  <l>Sold him a Slave, then dipt in a Kidds blood</l>
+                  <l>His Coat, becauſe it ſhould not be underſtood</l>
+                  <l>But ſome Beaſt had kill'd him, ſaid <hi>Jacob</hi> you have</l>
+                  <l>Brought my Grey head with ſorrow to the Grave.</l>
+               </lg>
+               <lg>
+                  <l>VVHen <hi>Ahaſuerus</hi> was the <hi>Perſian</hi> King,</l>
+                  <l>
+                     <hi>Haman</hi> great troubles on the <hi>Jews</hi> did bring</l>
+                  <l>And ſought to murther them all in one day</l>
+                  <l>Becauſe that <hi>Mordecay</hi> would not obey,</l>
+                  <l>And honour him when he went through the Gate</l>
+                  <l>Of <hi>Ahaſuerus</hi> in great Pomp and State,</l>
+                  <l>Therefore the <hi>Jews</hi> muſt dye there is no hope,</l>
+                  <l>Yet <hi>Mordecay</hi> ſurvived, <hi>Haman</hi> dyed by a Rope.</l>
+               </lg>
+               <lg>
+                  <l>BE mindful of your Servant who takes care</l>
+                  <l>That Thieves by no means for you lay a ſnare,</l>
+                  <l>Nor can break open houſes in the Night,</l>
+                  <l>For why the <hi>Belman</hi> puts them to the flight,</l>
+                  <l>Through Storms and Froſt at midnight ſtill he goes</l>
+                  <l>To ſerve his Maſters, Villains to oppoſe.</l>
+               </lg>
+               <lg>
+                  <l>IN this our Age Treaſon do much abound,</l>
+                  <l>And Traytors almoſt had beſet us round,</l>
+                  <l>But by the Wiſdome of our God above,</l>
+                  <l>Who is the Author and the Spring of love,</l>
+                  <l>The Popiſh Plotters he hath all confounded,</l>
+                  <l>And in their trenches they themſelves are drowned and Snows</l>
+               </lg>
+               <lg>
+                  <l>THrough Winds or Rains, through bitter Froſts</l>
+                  <l>Behold my Maſters all your <hi>Belman</hi> goes,</l>
+                  <l>When 'tis ſo dark he can't his hand diſcern,</l>
+                  <l>Doth he not then his Money dearly yearn,</l>
+                  <l>And ſince to ſerve you all he is ſo free,</l>
+                  <l>I hope at <hi>Chriſtmas</hi> you will Noble be.</l>
+               </lg>
+               <lg>
+                  <l>THou glorious God that Heaven and Earth haſt made</l>
+                  <l>Grant us thy Servants thy protecting aid,</l>
+                  <l>That in this time of Danger we may find</l>
+                  <l>Our God is merciful though men unkind,</l>
+                  <l>And let not Plotters by Conſpiracyes,</l>
+                  <l>Deſtroy our Church ſo glorious in thine Eyes.</l>
+               </lg>
+               <lg>
+                  <l>THus to conclude till the next year I ſhall</l>
+                  <l>Pray for your happineſs my Maſters all,</l>
+                  <l>Deſiring God to have you all in mind,</l>
+                  <l>And that your Servant may your Bounty find,</l>
+                  <l>Ile ſtudy how to pleaſe my Maſters well,</l>
+                  <l>My Tongue ſhall ring your praiſe, and e'ke my Bell.</l>
+               </lg>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by <hi>Hen. Brugis.</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
